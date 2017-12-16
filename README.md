@@ -1,1 +1,1 @@
-# Profit-Trailer-Settings-Bittrex-USDT
+# ProfitTrailer settings for USDT on Bittrex
